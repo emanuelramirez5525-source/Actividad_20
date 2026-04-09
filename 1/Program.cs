@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Solicitar al usuario la cantidad n de números, guardarlos en un arreglo y mostrarlos en pantalla
