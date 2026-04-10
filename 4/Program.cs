@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Solicitar n números, guardarlos en un arreglo y calcular el promedio
+
